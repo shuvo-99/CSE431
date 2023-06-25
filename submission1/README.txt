@@ -8,7 +8,7 @@ Public link to the slide (Anyone on the internet can view without login):
 
 
 Project title:
-
+Advanced Recommendations System using Hierarchical Recurrent Neural Network
 
 Group Number:
 25
