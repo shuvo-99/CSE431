@@ -5,7 +5,7 @@ Link to unlisted YouTube video:
 
 
 Public link to the slide (Anyone on the internet can view without login):
-
+https://docs.google.com/presentation/d/1LeWuhAaoU4Nf6T2PaZk02q8BF-WvuZ0VRQaUL47NC3Y/edit?usp=sharing 
 
 Project title:
 Advanced Recommendations System using Hierarchical Recurrent Neural Network
