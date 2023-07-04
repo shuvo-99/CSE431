@@ -8,7 +8,7 @@ Paper title:
 Recommendation System With Hierarchical Recurrent Neural Network for Long-Term Time Series
 
 Link to the paper:
-
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9430555 
 
 Group Number:
 25
