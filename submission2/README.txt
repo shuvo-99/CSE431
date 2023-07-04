@@ -2,7 +2,7 @@ Link to unlisted YouTube video:
 
 
 Public link to the slide (Anyone on the internet can view without login):
-
+https://docs.google.com/presentation/d/1rsy0MwMMtnKbwM_cb05YpnGD1vngx70boMouo1Guh6U/edit?usp=sharing 
 
 Paper title:
 Recommendation System With Hierarchical Recurrent Neural Network for Long-Term Time Series
