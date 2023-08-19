@@ -11,7 +11,7 @@ Paper title:
 Advanced Recommendations System using Hierarchical Recurrent Neural Network
 
 Paper presentation (anyone can view without login):
-
+https://docs.google.com/presentation/d/1pgrKrl3cSfchzrQQu703FWKlfF0olqnpHJ3wyEszzk0/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
 
