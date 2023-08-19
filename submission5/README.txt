@@ -10,8 +10,6 @@ Conference submitted paper / paper submission / login Link:
 Paper title:
 Advanced Recommendations System using Hierarchical Recurrent Neural Network
 
-Paper presentation (anyone can view without login):
-
 
 Paper submission date (to workshop/conference):
 
